@@ -1,9 +1,11 @@
-<h1 style="
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-  font-size: 2.5em;
-  color: #FF6F61;">
+<h1 align="center" style="
+  font-size: 3em;
+  color: #ff4b5c;
+  text-shadow: 3px 3px 6px rgba(0,0,0,0.4);
+  font-family: 'Trebuchet MS', sans-serif;">
   Hey, I'm Shifa 👋
 </h1>
+
  
 I'm a B.Tech IT student and aspiring Software Developer with a strong interest in web development and problem solving. I enjoy building practical applications, writing clean code, and continuously learning new technologies.
 
