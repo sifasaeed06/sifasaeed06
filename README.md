@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Shifa 👋</h1>     
 I'm a B.Tech IT student and aspiring Software Developer with a strong interest in web development and problem solving. I enjoy building practical applications, writing clean code, and continuously learning new technologies.
-
+---
 ### 🌟 Live Projects
 
 **[Hogwarts Quiz](https://sifasaeed06.github.io/Hogwarts-quiz/)** 🔴 **[Live](https://sifasaeed06.github.io/Hogwarts-quiz/)**
