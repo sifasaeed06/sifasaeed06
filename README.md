@@ -20,7 +20,8 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 </p>
 <hr style="height: 4px; border: none; background-color: #d0d7de;">
 
-<img src="https://media.tenor.com/0gVZpX9XoWAAAAAC/cute-cat-animal-smile.gif" alt="Cute Cat" width="200">
+![Cute Cat](https://media.tenor.com/0gVZpX9XoWAAAAAC/cute-cat-animal-smile.gif)
+
 
 <p>Thank you for visiting my page ❤️</p>
 
