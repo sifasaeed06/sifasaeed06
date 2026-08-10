@@ -14,7 +14,7 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 <hr style="height: 4px; border: none; background-color: #d0d7de;">
 
 ### 💻 Skills
-(https://sifasaeed06.github.io/drum-kit-click-keyboard/)
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,js,react,bootstrap,nodejs,express,vscode,idea" />
 </p>
