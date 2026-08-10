@@ -20,6 +20,10 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 </p>
 <hr style="height: 4px; border: none; background-color: #d0d7de;">
 
+<img src="https://media.tenor.com/0gVZpX9XoWAAAAAC/cute-cat-animal-smile.gif" alt="Cute Cat" width="200">
+
+<p>Thank you for visiting my page ❤️</p>
+
 <h1 align="center">💜 Would love to connect!</h1> 
 <!--
 **sifasaeed06/sifasaeed06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
