@@ -1,6 +1,5 @@
 ##        Hey, I'm Shifa 👋
-I'm a B.Tech IT student and aspiring Software Developer with a strong interest in web development and problem solving. I enjoy building practical, user-focused applications and continuously improving my technical skills.
-Currently, I'm strengthening my Data Structures and Algorithms (DSA) and exploring modern web technologies, with a focus on React, Node.js, and backend development.
+I'm a B.Tech IT student and aspiring Software Developer with a strong interest in web development and problem solving. I enjoy building practical applications, writing clean code, and continuously learning new technologies.
 ### 💻 Skills
 
 <p>
