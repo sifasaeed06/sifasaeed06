@@ -31,8 +31,6 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 
 <img src="https://media.tenor.com/0gVZpX9XoWAAAAAC/cute-cat-animal-smile.gif" alt="Cute Cat" width="200">
 
-<p>Thank you for visiting my page ❤️</p>
-
 
 <p>Thank you for visiting my page ❤️</p>
 
