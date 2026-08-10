@@ -1,11 +1,12 @@
-<h1 align="center" style="
-  font-size: 3em;
-  color: #ff4b5c;
-  text-shadow: 3px 3px 6px rgba(0,0,0,0.4);
-  font-family: 'Trebuchet MS', sans-serif;">
-  Hey, I'm Shifa 👋
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #ff4b5c, #ffcc00);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-size: 3em;
+               font-weight: bold;">
+    Hey, I'm Shifa 👋
+  </span>
 </h1>
-
  
 I'm a B.Tech IT student and aspiring Software Developer with a strong interest in web development and problem solving. I enjoy building practical applications, writing clean code, and continuously learning new technologies.
 
