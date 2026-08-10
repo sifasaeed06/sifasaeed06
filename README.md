@@ -7,7 +7,7 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 
 **[Cloudinary Showcase](https://cloudinary-showcase-nine.vercel.app/)** 🔴 **[Live](https://cloudinary-showcase-nine.vercel.app/)**
 
-**[DrumKit Keyboard**](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 🔴 **[Live](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 
+**[Drum-Kit Keyboard](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 🔴 **[Live](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 
 
 ### 💻 Skills
 (https://sifasaeed06.github.io/drum-kit-click-keyboard/)
