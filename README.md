@@ -18,6 +18,9 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,mysql,html,css,js,react,bootstrap,nodejs,express,vscode,idea" />
 </p>
+<hr style="height: 4px; border: none; background-color: #d0d7de;">
+
+<h1 align="center">💜 Would love to connect!</h1> 
 <!--
 **sifasaeed06/sifasaeed06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
