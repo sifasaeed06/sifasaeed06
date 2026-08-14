@@ -20,7 +20,7 @@ I'm a B.Tech IT student and aspiring Software Developer with a strong interest i
 
 **[Drum-Kit Keyboard](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 🔴 **[Live](https://sifasaeed06.github.io/drum-kit-click-keyboard/)** 
 
-**[React To-Do List](https://react-todo-list-three-virid.vercel.app/)** 🔴 **[Live](https://react-todo-list-three-virid.vercel.app/)**
+**[ To-Do List](https://react-todo-list-three-virid.vercel.app/)** 🔴 **[Live](https://react-todo-list-three-virid.vercel.app/)**
 
 <hr style="height: 4px; border: none; background-color: #d0d7de;">
 
